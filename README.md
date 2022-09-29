@@ -2,7 +2,7 @@
 
 - 🖥️ Atualmente Desenvolvendo Projetos com front-end/back-end
 - 🎓 Cursando Análise e desenvolvimento de sistemas na Uninter
-- 🎓 Estudando Cloud na AWS
+- 🎓 Estudando Cloud 
 
 <div align="center">
   <a href="https://github.com/LleSouza">
